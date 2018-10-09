@@ -1,0 +1,72 @@
+{
+  "code": 200,
+  "data": [
+    {
+      "imgUrl": "http://demo.sc.chinaz.com//Files/DownLoad/webjs1/201503/jiaoben3190/images/rustic-landscape.jpg",
+      "title": "静夜思",
+      "author":"李白",
+      "write_author": "王五3",
+      "write_img": "",
+      "praise": 300
+    },
+    {
+      "imgUrl": "http://demo.sc.chinaz.com//Files/DownLoad/webjs1/201503/jiaoben3190/images/contemporary-landscape.jpg",
+      "title": "静夜思",
+      "author":"李白",
+      "write_author": "王五2",
+      "write_img": "",
+      "praise": 300
+    },
+    {
+      "imgUrl": "http://demo.sc.chinaz.com//Files/DownLoad/webjs1/201503/jiaoben3190/images/traditional-landscape.jpg",
+      "title": "静夜思",
+      "author":"李白",
+      "write_author": "王五xx",
+      "write_img": "",
+      "praise": 300
+    },
+    {
+      "imgUrl": "http://demo.sc.chinaz.com//Files/DownLoad/webjs1/201503/jiaoben3190/images/beach-style-landscape.jpg",
+      "title": "静夜思",
+      "author":"李白",
+      "write_author": "王五",
+      "write_img": "",
+      "praise": 300
+    },
+    {
+      "imgUrl": "http://demo.sc.chinaz.com//Files/DownLoad/webjs1/201503/jiaoben3190/images/beach-style-landscape.jpg",
+      "title": "静夜思",
+      "author":"李白",
+      "write_author": "王五",
+      "write_img": "",
+      "praise": 300
+    },
+    {
+      "imgUrl": "http://demo.sc.chinaz.com//Files/DownLoad/webjs1/201503/jiaoben3190/images/beach-style-landscape.jpg",
+      "title": "静夜思",
+      "author":"李白",
+      "write_author": "王五",
+      "write_img": "",
+      "praise": 300
+    },
+    {
+      "imgUrl": "http://demo.sc.chinaz.com//Files/DownLoad/webjs1/201503/jiaoben3190/images/beach-style-landscape.jpg",
+      "title": "静夜思",
+      "author":"李白",
+      "write_author": "王五",
+      "write_img": "",
+      "praise": 300
+    },
+    {
+      "imgUrl": "http://demo.sc.chinaz.com//Files/DownLoad/webjs1/201503/jiaoben3190/images/beach-style-landscape.jpg",
+      "title": "静夜思",
+      "author":"李白",
+      "write_author": "王五",
+      "write_img": "",
+      "praise": 300
+    }
+  ],
+  "currentPage": 1,
+  "totalPage": 3,
+  "currentNumber": 10
+}
